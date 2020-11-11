@@ -58,8 +58,8 @@ PAD_TRANSLATION = (
     (3, 3, 39, 0),
 )
 CONTROLLER_DESCRIPTION = {
-    'INPUTPORT': 'LPD8',
-    'OUTPUTPORT': 'LPD8',
+    'INPUTPORT': 'Midi Fighter Twister',
+    'OUTPUTPORT': 'Midi Fighter Twister',
     'CHANNEL': 0,
     'PAD_TRANSLATION': PAD_TRANSLATION,
 }
